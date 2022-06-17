@@ -1,7 +1,7 @@
 # Master_Thesis_AI_example  <br />
-This is a working example, as a Jupyter notebook in vscode. <br />
+This is a working example, as a Jupyter notebook in **vscode**. <br />
 
-The packages that are needed for this project, can be installed by running in your terminal: pip install -r requirements.txt <br />
+The packages that are needed for this project, can be installed by running in your terminal: **pip install -r requirements.txt** <br />
 Or make sure to install the following packages:  <br />
 
 pip install torch             <br />
@@ -21,14 +21,14 @@ pip install seaborn           <br />
   
 <br />
 Important to locally download the spacy packages in your terminal: <br />
-python -m spacy download en_core_web_lg           <br />
-python -m spacy download nl_core_news_lg          <br />
+**python -m spacy download en_core_web_lg**           <br />
+**python -m spacy download nl_core_news_lg**          <br />
 
 Follow the following steps to make a model on your own, and test with the provided data.  <br />
 Important to mention, is that the dataset is very small. Since this company did not allowed to use all the available data.  <br />
 
 Steps:  <br />
-1. Run NLP_.ipynb (This will create a .pkl file were a preprocessed dataframe will be stored.)  <br />
-2. Run Train_Multi_Single.ipynb (This notebook will train and test your model based on a small dataset of 600 samples. -> 300 True and 300 False classes).  <br />
+1. Run **NLP_.ipynb** (This will create a .pkl file were a preprocessed dataframe will be stored.)  <br />
+2. Run **Train_Multi_Single.ipynb** (This notebook will train and test your model based on a small dataset of 600 samples. -> 300 True and 300 False classes).  <br />
 
 
