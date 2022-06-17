@@ -1,7 +1,8 @@
 # Master_Thesis_AI_example  <br />
 This is a working example, as a Jupyter notebook in vscode. <br />
 
-Make sure to install the following packages:  <br />
+The packages that are needed for this project, can be installed by running in your terminal: pip install -r requirements.txt <br />
+Or make sure to install the following packages:  <br />
 
 pip install torch             <br />
 pip install click==8.0.4      <br />
@@ -18,8 +19,8 @@ pip install tqdm              <br />
 pip install collection        <br />
 pip install seaborn           <br />
   
-
-Important to locally download the spacy packages: <br />
+<br />
+Important to locally download the spacy packages in your terminal: <br />
 python -m spacy download en_core_web_lg           <br />
 python -m spacy download nl_core_news_lg          <br />
 
