@@ -21,8 +21,8 @@ pip install seaborn           <br />
   
 <br />
 Important to locally download the spacy packages in your terminal: <br />
-**python -m spacy download en_core_web_lg**           <br />
-**python -m spacy download nl_core_news_lg**          <br />
+python -m spacy download en_core_web_lg           <br />
+python -m spacy download nl_core_news_lg          <br />
 
 Follow the following steps to make a model on your own, and test with the provided data.  <br />
 Important to mention, is that the dataset is very small. Since this company did not allowed to use all the available data.  <br />
