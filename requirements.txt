@@ -1,0 +1,14 @@
+torch
+click==8.0.4
+keras
+tensorflow
+spacy
+scispacy
+nltk
+pyspark
+pandas
+numpy
+scikit-learn
+tqdm
+collection
+seaborn
