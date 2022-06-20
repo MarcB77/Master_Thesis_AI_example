@@ -32,4 +32,4 @@ Steps:  <br />
 1. Run **NLP_.ipynb** (This will create a .pkl file inside folder 'dataset' were a preprocessed dataframe will be stored.)  <br />
 2. Run **Train_Multi_Single.ipynb** (This notebook will train and test your model based on a small dataset of 600 samples. -> 300 True and 300 False classes).  <br />
 
-
+Make sure you use 'Master_Thesis_AI_example' as working directory.
