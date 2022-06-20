@@ -2,7 +2,8 @@
 This is a working example, as a Jupyter notebook in **vscode**. <br />
 Configured Python kernel = 3.7.9 64-bit <br />
 
-The packages that are needed for this project, can be installed by running in your terminal: **pip install -r requirements.txt** <br />
+The packages that are needed for this project, can be installed by running in your terminal: <br />
+**pip install -r requirements.txt** <br />
 Or make sure to install the following packages:  <br />
 
 pip install torch             <br />
